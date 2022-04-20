@@ -11,4 +11,4 @@ Options are: <br>
 
 The values within the program are calibrated for my laptop CPU specifications - see the report for more information
 
-Have a nice day!
+<!-- Have a nice day! -->
